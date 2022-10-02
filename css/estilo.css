@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(189, 124, 250);
+}
+header{
+    color: rgb(249, 248, 252);
+    text-align: center;
+    background-color: rgb(1, 104, 194);
+}
+.significado{
+    background: white;
+    width: 80%;
+    float: left;
+}
+.informacion{
+    background: red;
+    color: yellow;
+    width: 20%;
+    float: left;
+
+   
+}
+.REDES{
+    background: rgb(221, 221, 178);
+    float: left;
+    text-align: center;
+    width: 33.33%;
+}
+.TELEFONOS{
+    background: rgb(183, 183, 76);
+    float: left;
+    text-align: center;
+    width: 33.33%;
+}
+.DIRECCIONES{
+background: rgb(226, 225, 211);
+float: left;
+text-align: center;
+width: 33.33%;
+}
+footer{
+    color: orange;
+    background: rgb(38, 27, 50);
+    text-align: center;
+    width: 100%
+}
